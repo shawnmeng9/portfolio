@@ -1,2 +1,0 @@
-# portfolio
-Shawn's portfolio
